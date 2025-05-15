@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "username": "root",
+    "password": "eldaniel159",
+    "database": "ffgum",
+    "dialect": "mariadb"
+}
